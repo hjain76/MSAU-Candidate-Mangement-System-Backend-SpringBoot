@@ -1,7 +1,7 @@
 # MSAU-Candidate-Mangement-System-Backend-SpringBoot
 Candidate-Management-Project-Accolite
-
-Markup : 1 . Storing Candidate details
+# Features
+         1 . Storing Candidate details
          2 . CRUD operations
          3 . View Trends on various attributes(skillset,Institute,Joining Location)
          4 . Display Log Information
